@@ -1,16 +1,1 @@
-{
-"recipient": "amcgrane@gmail.com",
-"evidence": "www.d.ie",
-"issued_on": "2016-02-17",
-"badge": {
-"version": "1.0.0",
-"name": "Explorer",
-"image": "https://s14.postimg.org/6b8vskdrl/image.png",
-"description": "Has demonstrated ability to make badges.",
-"criteria": "www.d.ie",
-"issuer": {
-"origin": "www.d.ie",
-"name": "CITES CCME",
-"org": "Test",
-"contact": "frt@gmail.com" } }
-}
+{ "recipient": "amcgrane@gmail.com", "evidence": "http://google.com", "issued_on": "2016-02-21", "badge": { "version": "1.0.0", "name": "Explorer", "image": "https://s14.postimg.org/6b8vskdrl/image.png", "description": "Has displayed expertise in hand-made badge creation.", "criteria": "http://etec.hawaii.edu", "issuer": { "origin": "http://openeducation.us/", "name": "Course Lecturer", "org": "Not a Real Badge, 2012", "contact": "issuer_email@hawaii.edu" } } }
