@@ -8,6 +8,7 @@ package monty;
  * and a one in the remaining index representing the car.
  * Monty is represented by a unnamed default abstract superclass. 
  * Copyright (c) Alan McGrane 2016 Version 1.3
+ * https://en.wikipedia.org/wiki/Monty_Hall_problem
  */
 
 import java.util.Scanner;
