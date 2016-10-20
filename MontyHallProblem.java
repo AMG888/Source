@@ -7,7 +7,7 @@ package monty;
  * int array. Zeroes in two random indices for the goats
  * and a one in the remaining index representing the car.
  * Monty is represented by a unnamed default abstract superclass. 
- * Copyright (c) Alan McGrane 2014 Version 1.2
+ * Copyright (c) Alan McGrane 2016 Version 1.3
  */
 
 import java.util.Scanner;
