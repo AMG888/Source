@@ -1,13 +1,13 @@
 {
-"recipient": "raymond.taylor@wbtsystems.com", 
+"recipient": "alan.mcgrane@wbtsystems.com", 
 "evidence": "http://google.com", 
 "issued_on": "2013-02-21", 
 "badge": { "version": "1.0.0", "name": "Professional", 
 "image": "https://higherlogicdownload.s3.amazonaws.com/HUG/66490e34-de43-4ca0-af4e-d20715715fcd/UploadedImages/Academy%20-%20HL%20/Update/HLAcademy-logo-ribbon1.png", 
-"description": "Higher Logic genius", 
-"criteria": "http://etec.hawaii.edu",
-"issuer": { "origin": "http://openeducation.us/", 
-"name": "Course Lecturer",
-"org": "Not a Real Badge, 2012", 
-"contact": "issuer_email@hawaii.edu" } } 
+"description": "Higher Logic", 
+"criteria": "http://testing.ie",
+"issuer": { "origin": "http://testing.ie/", 
+"name": "tester",
+"org": "Not a Real Badge, Honestly", 
+"contact": "issuer_email@testymybadge.ie" } } 
 }
