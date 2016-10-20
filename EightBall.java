@@ -3,7 +3,7 @@ package monty;
 /*
  * 8 Ball is a java simulation of an eight ball
  * Authors Mark McGrane
- * and Ben Mc Grane
+ * and  Ben Mc Grane
  */
 
 import java.util.Random;
